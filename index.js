@@ -9,7 +9,7 @@ document.getElementById("click").innerHTML="click me";
 let myDate = new Date();
 document.write(myDate);
 document.write(myDate.getFullYear());
-console.log(myDate.getDay());
+document.write(myDate.getDay());
 // console.log("this is external js file");
 // var a = 10;
 // console.log(a);
