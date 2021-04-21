@@ -8,7 +8,7 @@ document.getElementById("demo").innerHTML="Have a nice day";
 document.getElementById("click").innerHTML="click me";
 let myDate = new Date();
 document.write(myDate);
-console.log(myDate.getFullYear());
+document.write(myDate.getFullYear());
 console.log(myDate.getDay());
 // console.log("this is external js file");
 // var a = 10;
