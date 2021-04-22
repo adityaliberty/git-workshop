@@ -5,11 +5,17 @@ firstContainer.addEventListener('mouseover',function(){
   console.log("mouse on container");
 })
 document.getElementById("demo").innerHTML="Have a nice day";
-document.getElementById("click").innerHTML="click me";
+document.getElementById("click").innerHTML="Date and time";
+function myFunction(){
 let myDate = new Date();
 document.write(myDate);
 document.write(myDate.getFullYear());
 document.write(myDate.getDay());
+
+}
+document.getElementById("demo").innerHTML.toUpperCase();
+
+
 // console.log("this is external js file");
 // var a = 10;
 // console.log(a);
