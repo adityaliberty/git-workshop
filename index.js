@@ -13,7 +13,7 @@ document.write(myDate.getFullYear());
 document.write(myDate.getDay());
 
 }
-document.getElementById("demo").innerHTML.toUpperCase();
+
 
 
 // console.log("this is external js file");
