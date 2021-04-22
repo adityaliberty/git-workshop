@@ -1,5 +1,9 @@
 firstContainer.addEventListener('click',function(){
+<<<<<<< HEAD
   window.alert("clicked on that container");
+=======
+  window.alert("clicked on container");
+>>>>>>> 6a8333c8167634cc1a62a5e853d0e9dc62b5105a
 })
 firstContainer.addEventListener('mouseover',function(){
   console.log("mouse on container");
