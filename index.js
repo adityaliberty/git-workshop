@@ -1,5 +1,9 @@
 firstContainer.addEventListener('click',function(){
+<<<<<<< HEAD
   window.alert("clicked on new-feature container");
+=======
+  window.alert("clicked on devlopment container");
+>>>>>>> development
 })
 firstContainer.addEventListener('mouseover',function(){
   console.log("mouse on container");
